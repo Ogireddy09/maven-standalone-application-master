@@ -6,7 +6,6 @@
 	<artifactId>maven-standalone-application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<!--test commit-->
 	<name>maven-standalone-application</name>
 	<url>http://mithuntechnologies.com</url>
 
